@@ -1,0 +1,22 @@
+.tab-item-container {
+    list-style: none;
+    list-style-type: none;
+
+  }
+  
+  .tab-btn {
+    border-color: #db1c48;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-width: 1px;
+    font-size: 11px;
+    padding: 5px;
+    margin: 6px;
+    width: 80px;
+    color: black;
+  }
+  
+  .active-tab-btn {
+    background-color: #db1c48;
+  }
+  
